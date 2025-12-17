@@ -31,4 +31,7 @@ node server.js
 
 Acesse http://localhost:3000
 
+O Quiz também foi hospedado pela plataforma Render e pode ser acessado
+através do link https://quiz-cheirosa.onrender.com/
+
 Desenvolvido por Glezier Montalvane de Farias Ferreira
