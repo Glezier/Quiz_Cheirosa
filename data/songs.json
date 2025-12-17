@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "trecho": "'Cause it's too cold \nFor you here and now \nSo let me hold \nBoth your hands in the holes of my sweater",
+    "musica": "sweater weather",
+    "audio": "audios/sweaterweather.mp3",
+    "capa": "covers/sweaterweather.jpeg"
+  },
+  {
+    "id": 2,
+    "trecho": "I keep on switchin', I know \nI need a different approach \nIt's all because I wanna \nShow you that I'm so capable",
+    "musica": "nervous",
+    "audio": "audios/nervous.mp3",
+    "capa": "covers/nervous.jpeg"
+  },
+  {  
+    "id": 3,
+    "trecho": "Hard not to fall for you \nI gave you all my heart... \nYou're running through my veins, something \nI can't change",
+    "musica": "fallen star",
+    "audio": "audios/fallenstar.mp3",
+    "capa": "covers/fallenstar.jpeg"
+  },
+  {
+    "id": 4,
+    "trecho": "If I don't have you with me, I'm alone \nYou know I never know which way to go \nI think I need you with me for all time \nWhen I need new direction for my mind",
+    "musica": "compass",
+    "audio": "audios/compass.mp3",
+    "capa": "covers/compass.jpeg"
+  },
+  {
+    "id": 5,
+    "trecho": "When I feel like I'm strangled \nYou treat me like an angel \nShow me all different angles \nAnd I never, ever felt that way, uh",
+    "musica": "heaven",
+    "audio": "audios/heaven.mp3",
+    "capa": "covers/heaven.jpeg"
+  },
+  {
+    "id": 6,
+    "trecho": "Kiss me hard before you go \nSummertime sadness \nI just wanted you to know \nThat, baby, you're the best",
+    "musica": "summertime sadness",
+    "audio": "audios/summertimesadness.mp3",
+    "capa": "covers/summertimesadness.jpeg"
+  },
+  {
+    "id": 7,
+    "trecho": "No one even knows how hard life was \nI don't even think about it now because \nI finally found you \n(Oh, sing it to me)",
+    "musica": "radio",
+    "audio": "audios/radio.mp3",
+    "capa": "covers/radio.jpeg"
+  },
+  {
+    "id": 8,
+    "trecho": "But to me, girl, you're so much more than gorgeous \nSo much more than perfect \nRight now, I know that I'm not really worth it \nIf you give me time, I can work on it",
+    "musica": "star shopping",
+    "audio": "audios/starshopping.mp3",
+    "capa": "covers/starshopping.jpeg"
+  },
+  {
+    "id": 9,
+    "trecho": "I've found a reason for me \nTo change who I used to be \nA reason to start over new \nAnd the reason is you",
+    "musica": "the reason",
+    "audio": "audios/thereason.mp3",
+    "capa": "covers/thereason.jpeg"
+  },
+  {
+    "id": 10,
+    "trecho": "I get those goosebumps every time, yeah \nYou come around, yeah \nYou ease my mind, you make everything feel fine",
+    "musica": "goosebumps",
+    "audio": "audios/goosebumps.mp3",
+    "capa": "covers/goosebumps.jpeg"
+  },
+  {
+    "id": 11,
+    "trecho": "I don't care how long it takes \nAs long as I'm with you, \nI've got a smile on my face \nSave your tears, it'll be okay",
+    "musica": "here with me",
+    "audio": "audios/herewithme.mp3",
+    "capa": "covers/herewithme.jpeg"
+  },
+  {
+    "id": 12,
+    "trecho": "My single line of stars in noon \nReflection of the very Moon, I do... \nShow my love for you \nCan I show my love for you?",
+    "musica": "yebba's heartbreak",
+    "audio": "audios/yebba'sheartbreak.mp3",
+    "capa": "covers/yebba'sheartbreak.jpeg"
+  }
+]

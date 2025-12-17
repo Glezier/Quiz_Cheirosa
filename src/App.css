@@ -1,0 +1,132 @@
+body{
+    background-color: #3B1E54;
+    color: #FFFFFF;
+    font-size: 24px;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.trecho{
+    white-space: pre-line;
+    background-color: #5a2d86;
+    padding: 16px 26px;
+    border-radius: 12px;
+    margin-top: 46px;
+}
+
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-direction: column;
+    height: 80vh;
+    gap: 4px;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    flex-direction: row;
+
+}
+
+
+
+.quiz{
+    width: 100%;
+    height: 100vh;
+    margin-top: -30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.pergunta{
+    display: flex;
+}
+
+.total{
+    display: flex;
+}
+
+.buttons, .icons{
+    background-color: #8E24AA;
+    color: #FDE7FF;
+    border: none;
+    border-radius: 10px;
+    padding: 12px;
+    font-size: 22px;
+    
+}
+
+.buttons{
+    cursor: pointer;
+}
+
+input {
+    padding: 14px 26px;
+    font-size: 22px;
+    background-color: #4E2A73;
+    color: #FDE7FF;
+    border: 2px solid #8E24AA;
+    border-radius: 10px;
+    outline: none;
+}
+
+input::placeholder {
+    color: #D7A6E8;
+}
+
+.buttons-input{
+    
+    display: flex;
+    gap: 70px;
+    margin-bottom: 22px;
+}
+
+.validation{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 26px;
+}
+
+.messages{
+    background-color: #694476;
+    border-radius: 12px;
+    padding: 12px;
+    font-size: 22px;
+    white-space: pre-line;
+
+}
+
+.player{
+    margin-top: -20px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+}
+
+img{
+    object-fit: cover;
+    object-position: cover;
+    width: 120px;
+    border-radius: 10px;
+    height: 120px;
+}
